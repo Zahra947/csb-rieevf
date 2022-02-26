@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zahra947.github.io/csb-rieevf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://zahra947.github.io/csb-rieevf/static/js/main.310c48ae.chunk.js",
+    "main.js.map": "https://zahra947.github.io/csb-rieevf/static/js/main.310c48ae.chunk.js.map",
+    "runtime-main.js": "https://zahra947.github.io/csb-rieevf/static/js/runtime-main.efe2eb7f.js",
+    "runtime-main.js.map": "https://zahra947.github.io/csb-rieevf/static/js/runtime-main.efe2eb7f.js.map",
+    "static/js/2.de2a2d9b.chunk.js": "https://zahra947.github.io/csb-rieevf/static/js/2.de2a2d9b.chunk.js",
+    "static/js/2.de2a2d9b.chunk.js.map": "https://zahra947.github.io/csb-rieevf/static/js/2.de2a2d9b.chunk.js.map",
+    "index.html": "https://zahra947.github.io/csb-rieevf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://zahra947.github.io/csb-rieevf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.de2a2d9b.chunk.js.LICENSE.txt": "https://zahra947.github.io/csb-rieevf/static/js/2.de2a2d9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efe2eb7f.js",
+    "static/js/2.de2a2d9b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.310c48ae.chunk.js"
+  ]
+}
